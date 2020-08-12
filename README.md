@@ -1,1 +1,4 @@
 # alahly-store
+
+
+#project notes
